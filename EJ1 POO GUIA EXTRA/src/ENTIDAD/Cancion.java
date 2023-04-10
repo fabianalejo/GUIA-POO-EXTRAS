@@ -13,6 +13,7 @@ public class Cancion {
     
     private String titulo;
     private String autor;
+    private String fabian;
     
     public Cancion()
     {
